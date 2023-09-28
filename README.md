@@ -1,2 +1,2 @@
 # nlp_course
-Course materials from HuggingFace NLP Course
+Jupyter notebooks from HuggingFace NLP Course. 
